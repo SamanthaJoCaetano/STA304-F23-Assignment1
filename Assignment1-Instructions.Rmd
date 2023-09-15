@@ -29,9 +29,9 @@ There is a starter Rmd file (called Assignment1-starter_code.Rmd) available for 
 
 Your complete .Rmd file AND the resulting pdf (i.e., the one you 'Knit to PDF' from your .Rmd file) must be uploaded into a Quercus assignment (link: [https://q.utoronto.ca/courses/317099/assignments/1151557](https://q.utoronto.ca/courses/317099/assignments/1151557)). Please consult the course syllabus for other inquiries. **If you do NOT submit the pdf in your submission you will receive a grade of 0.** 
 
-There are two attempts to submit this assignment. If you submit prior to the September 28 11:59pm ET deadline, then we will the latest submission that came in prior to Sept 28 11:59pm ET.
+There are two attempts to submit this assignment, to account for the possibility of an error in your first attempt/submission. If you submit prior to the September 28 11:59pm ET deadline, then we will grade the latest submission that came in prior to September 28 11:59pm ET.
 
-If you wish to use the grace period please do NOT submit prior to September 28 11:59pm ET. Note:if you used the grace period we will grade the latest submission, so please ensure that you are including BOTH the pdf and Rmd in your upload/submission. Note: there is an Ouriginal draft submission page available (not for grades) for you to practice submitting your assignment if needed.
+If you wish to use the grace period please do NOT submit prior to September 28 11:59pm ET. Note: if you used the grace period we will grade the *latest* submission, so please ensure that you are including BOTH the pdf and Rmd in your upload/submission. Additionally, there is an Ouriginal draft submission page available (not for grades) for you to practice submitting your assignment if needed.
 
 
 # Assignment grading

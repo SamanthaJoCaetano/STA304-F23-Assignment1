@@ -35,7 +35,7 @@ library(openintro)
 
 ## Data
 
-<Type here a paragraph introducing the data, its context and the data collection/simulation process.>
+<Type here a paragraph introducing the data, its context and the data simulation process.>
 
 ```{r, include = FALSE}
 
